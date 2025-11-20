@@ -1,0 +1,25 @@
+# Fortran to C++ Translator - Python Dependencies
+# Core scientific computing
+numpy>=2.0.0
+
+# HTTP client libraries for LLM APIs
+aiohttp>=3.8.0
+requests>=2.32.0
+
+# LLM API clients
+openai>=1.0.0
+
+# Note: The following system dependencies are also required:
+# - gfortran (GNU Fortran compiler)
+# - g++ (GNU C++ compiler)
+# - ollama (optional, for local LLM serving)
+#
+# System dependencies installation:
+# Ubuntu/Debian:
+#   sudo apt-get install gfortran g++
+#
+# macOS:
+#   brew install gcc
+#
+# Ollama (optional):
+#   Visit https://ollama.ai for installation instructions
