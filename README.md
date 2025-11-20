@@ -10,6 +10,11 @@ Beyond traditional source–target code pair datasets, our approach additionally
 
 ## Quickstart 
 
+```
+conda create -n f2cpp_train python=3.11 -y 
+conda activate f2cpp_train
+pip install -r requirements.txt
+```
 
 
 

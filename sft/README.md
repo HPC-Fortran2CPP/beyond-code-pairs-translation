@@ -1,5 +1,6 @@
 # SFT models using Llama Factory 
 
+These models are trained using single H200. 
 
 ## Setup Environment 
 ```
