@@ -10,9 +10,8 @@ Beyond traditional source–target code pair datasets, our approach additionally
 
 ## Content 
 
-- `agent.py` is the file that contains the agent workflow that is implemented based on our designed agentic workflow. 
-- `data/` folder contains the data that is used to train the agent. 
-- `sft/` folder contains the configs that is used to train the SFT models. 
-- `prompt_f2c_output_comparison.py` is the file that contains the prompts that is used to generate the code pairs. 
--  `analysis/` folder contains the analysis results of the F2C and CPP2Cuda translation tasks. 
+- `src/` folder contains the source code that is used to run the multi-agent dialogue generation. 
+- `data/` folder contains the data that is used to do the model fine-tuning. 
+- `sft/` folder contains the configs that is used to fine-tune the models. 
+- `analysis/` folder contains the analysis results of the F2C and CPP2Cuda translation tasks. 
 
