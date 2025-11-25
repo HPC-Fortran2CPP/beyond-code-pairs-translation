@@ -14,5 +14,5 @@ Beyond traditional source–target code pair datasets, our approach additionally
 - `data/` folder contains the data that is used to train the agent. 
 - `sft/` folder contains the configs that is used to train the SFT models. 
 - `prompt_f2c_output_comparison.py` is the file that contains the prompts that is used to generate the code pairs. 
-- `F2C_success_analysis_results.json`, `F2C_detailed_analysis_results.json`, `CPP2Cuda_success_analysis_results.json` are the analysis results of the F2C and CPP2Cuda translation tasks. 
+-  `analysis/` folder contains the analysis results of the F2C and CPP2Cuda translation tasks. 
 
