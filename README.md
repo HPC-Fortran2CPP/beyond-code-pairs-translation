@@ -5,6 +5,7 @@
 </h1>
 <p align="center">
   <a href="https://aclanthology.org/"><img src="https://img.shields.io/badge/ACL%202026-Main%20Conference-red" alt="ACL 2026"></a>
+  <a href="https://arxiv.org/abs/2512.03086"><img src="https://img.shields.io/badge/arXiv-2512.03086-b31b1b" alt="arXiv"></a>
 </p>
 </div> 
 
